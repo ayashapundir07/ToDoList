@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(44, 46, 45);
+  }
+  .container{
+    background-color: rgb(211, 137, 40);
+    margin-top:50px;
+    align: center;
+  }
+  h2{
+    color: white;
+  }
